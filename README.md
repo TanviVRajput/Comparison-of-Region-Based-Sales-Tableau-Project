@@ -1,6 +1,5 @@
 # Comparison-of-Region-Based-Sales-Tableau-Project
-https://public.tableau.com/app/profile/tanviben.vicky.rajput/viz/RegionComparisonProject2/Dashboard1
-
+ **Dashboard Link :-** https://public.tableau.com/app/profile/tanviben.vicky.rajput/viz/RegionwiseSalesComparisonProject_17077396480320/Dashboard1?publish=yes
 **Project Goal:**
 
 The objective of this project is to assist a leading organization in visualizing sales data between two selected regions using a dashboard. By comparing sales performance, the organization can identify areas for improvement and make informed decisions to enhance productivity and profitability.
